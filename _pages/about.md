@@ -18,7 +18,8 @@ Education
 Publication
 ======
 - **SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model**
-Jiayang Yu, Yihang Zhang, Bin Wang, Peiqin Lin, Yongkang Liu, Shi Feng
+  Jiayang Yu, Yihang Zhang, Bin Wang, Peiqin Lin, Yongkang Liu, Shi Feng
+  [[Paper](https://arxiv.org/abs/2502.04958)]
  
 
 Site-wide configuration
