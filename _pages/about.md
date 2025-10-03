@@ -22,3 +22,8 @@ Publication
  
 Preprints
 ======
+
+Award
+======
+- The 15th National College Students Mathematics Competition, first prize
+- Northeastern University Zhou Jingwen Scholarship
